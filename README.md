@@ -1,16 +1,35 @@
-### Hi there 👋
+# Fábio Borges Júnior 🚀
 
-<!--
-**fabioborges-jr/fabioborges-jr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre Mim 👨‍💻
 
-Here are some ideas to get you started:
+Olá! 👋 Sou um apaixonado engenheiro civil com especialização em engenharia de software, atualmente com 28 anos de idade. Minha jornada profissional me levou a explorar os fascinantes domínios da stack JavaScript, onde minha curiosidade e entusiasmo conhecem poucos limites.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Atuações Profissionais 🏗️
+
+- 🌐 **Engenheiro Civil:** Trago uma base sólida em engenharia civil, fundamentada em projetos e fiscalização.
+- 💻 **Especialização em Engenharia de Software:** Busquei aprimorar meus conhecimentos na área de engenharia de software para abraçar desafios mais amplos e dinâmicos.
+
+## Paixão por JavaScript 💡
+
+Minha jornada de aprendizado está centrada na stack JavaScript, e estou mergulhando em diversas facetas:
+
+- 🌐 **Desenvolvimento Web:** Construir interfaces incríveis e funcionais é uma das minhas paixões.
+- 📱 **Desenvolvimento Mobile:** Explorando as possibilidades da programação mobile para criar experiências inovadoras.
+- 🎮 **Desenvolvimento de Jogos:** Fascinado pela ideia de criar mundos interativos e envolventes.
+- 🖥️ **Desenvolvimento de Softwares:** Explorando o vasto campo de criação de aplicativos e softwares.
+
+## Passatempos e Interesses 🎣📸🎮
+
+Fora do mundo digital, aqui estão algumas coisas que ocupam meu tempo:
+
+- 🎮 **Video Games**
+- 🎣 **Pescaria:**
+- 📸 **Fotografia:**
+
+## Contato 📫
+
+Vamos conversar sobre engenharia, desenvolvimento ou compartilhar experiências sobre nossos passatempos favoritos! Você pode me encontrar em [fabioborges.eci@gmail.com] ou [https://www.linkedin.com/in/f%C3%A1bio-borges-j%C3%BAnior-00a652127/] ou [https://github.com/fabioborges-jr].
+
+Sinta-se à vontade para explorar meu mundo diversificado e entre em contato se quiser compartilhar conhecimentos, colaborar em projetos emocionantes ou apenas bater um papo sobre nossos interesses comuns. 🌟
+
+**Obrigado por visitar meu Readme!** 🚀
