@@ -23,8 +23,8 @@ Minha jornada de aprendizado está centrada na stack JavaScript, e estou mergulh
 Fora do mundo digital, aqui estão algumas coisas que ocupam meu tempo:
 
 - 🎮 **Video Games**
-- 🎣 **Pescaria:**
-- 📸 **Fotografia:**
+- 🎣 **Pescaria**
+- 📸 **Fotografia**
 
 ## Contato 📫
 
