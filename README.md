@@ -8,6 +8,7 @@ Olá! 👋 Sou um apaixonado engenheiro civil com especialização em engenharia
 
 - 🌐 **Engenheiro Civil:** Trago uma base sólida em engenharia civil, fundamentada em projetos e fiscalização.
 - 💻 **Especialização em Engenharia de Software:** Busquei aprimorar meus conhecimentos na área de engenharia de software para abraçar desafios mais amplos e dinâmicos.
+- 💾 **Graduando em Ciências da Computação:** Comecei minha segunda jornada na graduação, com finalidade de interagir com pessoas que tem a mesma paixão que eu, além de aprender ainda mais.
 
 ## Paixão por JavaScript 💡
 
