@@ -19,6 +19,18 @@ Minha jornada de aprendizado está centrada na stack JavaScript, e estou mergulh
 - 🎮 **Desenvolvimento de Jogos:** Fascinado pela ideia de criar mundos interativos e envolventes.
 - 🖥️ **Desenvolvimento de Softwares:** Explorando o vasto campo de criação de aplicativos e softwares.
 
+## Tecnologias Vivenciadas 🛠️
+- React
+- Next.js
+- Angular
+- Node.js
+- Prisma
+- Puppeteer
+- TypeScript
+- PostgreSQL
+- Express
+- Passport
+
 ## Passatempos e Interesses 🎣📸🎮
 
 Fora do mundo digital, aqui estão algumas coisas que ocupam meu tempo:
