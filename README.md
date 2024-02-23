@@ -30,6 +30,7 @@ Minha jornada de aprendizado está centrada na stack JavaScript, e estou mergulh
 - PostgreSQL
 - Express
 - Passport
+- Eslint
 
 ## Passatempos e Interesses 🎣📸🎮
 
