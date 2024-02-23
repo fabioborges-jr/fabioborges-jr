@@ -17,7 +17,7 @@ Minha jornada de aprendizado está centrada na stack JavaScript, e estou mergulh
 - **Desenvolvimento Web:** Construir interfaces incríveis e funcionais é uma das minhas paixões.
 - **Desenvolvimento Mobile:** Explorando as possibilidades da programação mobile para criar experiências inovadoras.
 - **Desenvolvimento de Jogos:** Fascinado pela ideia de criar mundos interativos e envolventes.
-- 🖥**Desenvolvimento de Softwares:** Explorando o vasto campo de criação de aplicativos e softwares.
+- **Desenvolvimento de Softwares:** Explorando o vasto campo de criação de aplicativos e softwares.
 
 ## Tecnologias Vivenciadas
 - React
