@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 
-Olá! 👋 Sou um apaixonado engenheiro civil com especialização em engenharia de software, atualmente com 28 anos de idade. Minha jornada profissional me levou a explorar os fascinantes domínios da stack JavaScript, onde minha curiosidade e entusiasmo conhecem poucos limites.
+Olá! 👋 Sou um apaixonado engenheiro civil com especialização em engenharia de software, atualmente com 29 anos de idade. Minha jornada profissional me levou a explorar os fascinantes domínios da stack JavaScript, onde minha curiosidade e entusiasmo conhecem poucos limites.
 
 ## Histórico de educação
 
